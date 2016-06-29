@@ -1,0 +1,12 @@
+{
+    "name": "ilumin/slim-api",
+    "authors": [
+        {
+            "name": "Teerasak Vichadee",
+            "email": "teerasak.vic@ascendcorp.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.4"
+    }
+}
